@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Front End!<br>Estou a preocura de estagio!
+Estudante de Front End!<br>Estou a procura de estagio!
 
 
 ## 🌐 Socials:
